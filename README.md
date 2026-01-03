@@ -1,7 +1,3 @@
--- Merge: Key System UI + AVMS / Rogue Demon (AVMS SCRIPT V4)
--- Author: merged for impulso2k25-max
--- Description: Exibe um sistema de key; ao validar a key (via Junkie ou local), fecha a UI de key e inicia o AVMS Rogue Demon GUI+funcionalidade.
-
 if getgenv().RedExecutorKeySys then return end
 getgenv().RedExecutorKeySys = true
 
